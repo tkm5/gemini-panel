@@ -15,7 +15,7 @@ A Chrome extension that provides quick access to Google Gemini from any webpage 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/gemini-panel.git
+   git clone https://github.com/tkm5/gemini-panel.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
