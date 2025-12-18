@@ -7,7 +7,9 @@
     "sidePanel",
     "declarativeNetRequest",
     "declarativeNetRequestWithHostAccess",
-    "storage"
+    "storage",
+    "scripting",
+    "activeTab"
   ],
   "host_permissions": [
     "https://gemini.google.com/*"
@@ -47,5 +49,14 @@
     "16": "icons/Google Icon.png",
     "48": "icons/Google Icon.png",
     "128": "icons/Google Icon.png"
+  },
+  "commands": {
+    "open-with-selection": {
+      "suggested_key": {
+        "default": "Ctrl+L",
+        "mac": "Command+L"
+      },
+      "description": "Open Gemini Panel with selected text"
+    }
   }
 }
