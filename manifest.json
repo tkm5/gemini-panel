@@ -12,7 +12,7 @@
     "activeTab"
   ],
   "host_permissions": [
-    "https://gemini.google.com/*"
+    "https://aistudio.google.com/*"
   ],
   "action": {
     "default_title": "Open Gemini Panel"
@@ -30,7 +30,7 @@
       "run_at": "document_end"
     },
     {
-      "matches": ["https://gemini.google.com/*"],
+      "matches": ["https://aistudio.google.com/*"],
       "js": ["gemini-inject.js"],
       "run_at": "document_end",
       "all_frames": true

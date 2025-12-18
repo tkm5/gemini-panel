@@ -41,6 +41,7 @@ A Chrome extension that provides quick access to Google Gemini from any webpage 
 ```
 gemini-panel/
 ├── manifest.json        # Extension configuration
+├── config.js            # URL and domain configuration
 ├── background.js        # Service worker for extension events
 ├── content.js           # Keyboard shortcut detection
 ├── gemini-inject.js     # Injects selected text into Gemini

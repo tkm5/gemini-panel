@@ -11,6 +11,6 @@
  *   - Google AI Studio: "https://aistudio.google.com/prompts/new_chat", "aistudio.google.com"
  */
 const CONFIG = {
-  BASE_URL: "https://gemini.google.com/app",
-  DOMAIN: "gemini.google.com"
+  BASE_URL: "https://aistudio.google.com/prompts/new_chat",
+  DOMAIN: "aistudio.google.com"
 };
